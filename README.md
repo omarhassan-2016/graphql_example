@@ -1,24 +1,3 @@
-# README
+# GraphQL APIs in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+GraphQL is a flexible, strongly-typed query language. It's useful because it gives front-end developers the ability to query the database without many changes to the back-end. In this article, David Sanchez shows us how to design and build our own GraphQL APIs in Rails.
